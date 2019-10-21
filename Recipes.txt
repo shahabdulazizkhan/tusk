@@ -5,7 +5,13 @@ pasta
 kheer
 chicken 
 
+beans
+pizza
 
 thankyou
 
+
+done my changes
+
 Final Copy
+
